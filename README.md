@@ -6,4 +6,5 @@ https://formulae.brew.sh/formula/clisp
 clisp hello.lisp
 clisp factorial.lisp
 clisp loop.lisp
+clisp fib.lisp
 ```
